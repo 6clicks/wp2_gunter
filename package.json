@@ -1,0 +1,30 @@
+{
+  "name": "wp2_gunter",
+  "version": "1.0.0",
+  "description": "Block plugin 6clicks",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6clicks/wp2_gunter.git"
+  },
+  "keywords": [
+    "WordPress"
+  ],
+  "author": "john Robert-NIcoud | 6clicks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6clicks/wp2_gunter/issues"
+  },
+  "homepage": "https://github.com/6clicks/wp2_gunter#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^19.2.1"
+  },
+  "dependencies": {
+    "@wordpress/blocks": "^11.1.4",
+    "@wordpress/i18n": "^4.2.4"
+  }
+}
